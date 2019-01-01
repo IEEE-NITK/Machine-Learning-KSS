@@ -3,7 +3,7 @@
 This repository will contain resources from the sessions conducted.
 
 ## Getting Started
-Python 3 and pip should be installed. If not please follow [this link](https://wiki.python.org/moin/BeginnersGuide)
+Python 3 and pip should be installed. If not please follow [this link](https://wiki.python.org/moin/BeginnersGuide/Download)
 
 Also make sure you have `git` installed. If not please follow [this link](https://www.atlassian.com/git/tutorials/install-git)
 
