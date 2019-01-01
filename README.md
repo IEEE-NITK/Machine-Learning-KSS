@@ -31,3 +31,7 @@ pip3 install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+## Additional Resources
+* [Getting Started with Python 3](https://docs.python.org/3/tutorial/)
+* [Python Programming Tutorial](https://www.programiz.com/python-programming/tutorial)
