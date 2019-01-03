@@ -35,3 +35,8 @@ jupyter notebook
 ## Additional Resources
 * [Getting Started with Python 3](https://docs.python.org/3/tutorial/)
 * [Python Programming Tutorial](https://www.programiz.com/python-programming/tutorial)
+
+### Linear Algebra
+* [Introduction to Mathematics for Deep Learning](https://github.com/hadrienj/deepLearningBook-Notes)
+* [Linear Algebra Course by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
